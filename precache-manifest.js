@@ -1,26 +1,26 @@
 self.__precacheManifest = [
   {
     revision: '1cc979e1b05785124b93',
-    url: '/note/static/js/runtime~main.e7d57023.js'
+    url: '/static/js/runtime~main.e7d57023.js'
   },
   {
     revision: 'f540a599787abd018314',
-    url: '/note/static/js/main.438873e6.chunk.js'
+    url: '/static/js/main.438873e6.chunk.js'
   },
   {
     revision: '30b3a421f5c128789276',
-    url: '/note/static/js/2.9274bc98.chunk.js'
+    url: '/static/js/2.9274bc98.chunk.js'
   },
   {
     revision: 'f540a599787abd018314',
-    url: '/note/static/css/main.55bb8477.chunk.css'
+    url: '/static/css/main.55bb8477.chunk.css'
   },
   {
     revision: '30b3a421f5c128789276',
-    url: '/note/static/css/2.6f71526e.chunk.css'
+    url: '/static/css/2.6f71526e.chunk.css'
   },
   {
     revision: '6c2ef4b7aecc38101bb60f875042a845',
-    url: '/note/index.html'
+    url: '/index.html'
   }
 ];
